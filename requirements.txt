@@ -1,0 +1,44 @@
+# pip install -r requirements.txt
+
+## Core Data Science Packages
+numpy             # Numerical computations
+pandas            # Data manipulation and analysis
+matplotlib        # Basic data visualization
+seaborn           # Statistical data visualization (built on top of matplotlib)
+jupyter           # For running Jupyter notebooks
+# scikit-learn      # Machine learning algorithms and tools
+
+## Data Processing & Engineering
+# openpyxl          # Read/write Excel files
+# xlrd              # Reading older Excel files
+# sqlalchemy        # SQL integration for data extraction
+# pyarrow           # For working with Parquet files
+# dask              # Parallel computing for larger datasets
+
+## Data Visualization (Advanced)
+# plotly            # Interactive visualizations
+# altair            # Declarative statistical visualization
+# folium            # Geospatial visualizations (e.g., maps)
+
+## Machine Learning & Deep Learning
+# xgboost           # Gradient boosting framework
+# lightgbm          # Fast gradient boosting
+# tensorflow        # Deep learning framework
+# keras             # High-level API for TensorFlow
+# pytorch           # Alternative deep learning library
+# catboost          # Gradient boosting optimized for categorical data
+
+## Statistical Analysis & NLP
+# statsmodels       # Statistical models (ANOVA, linear models, etc.)
+# scipy             # Advanced statistical functions
+# nltk              # Natural Language Processing
+# spacy             # NLP with deep learning capabilities
+# Pingouin            # More exhaustive statistical functions
+
+## Utilities & Productivity
+# tqdm              # Progress bars
+# pydantic          # Data validation
+ipykernel           # Backend kernel
+python-dotenv       # For managing environment variables
+# requests          # HTTP requests (e.g., APIs)
+# beautifulsoup4    # Web scraping
